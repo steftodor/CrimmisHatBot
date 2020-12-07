@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4455d25d-558c-4a62-be76-b1b065e8deaa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/botmain.py" beforeDir="false" afterPath="$PROJECT_DIR$/botmain.py" afterDir="false" />
-    </list>
+    <list default="true" id="4455d25d-558c-4a62-be76-b1b065e8deaa" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
