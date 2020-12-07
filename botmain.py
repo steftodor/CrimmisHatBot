@@ -70,8 +70,6 @@ async def hathelp(ctx):
              "Please use the command 'q!feedback <message>' to send your feedback!\n" \
              "Note on image quality: higher resolution avatars results in cleaner images\n" \
              "\n" \
-             "If this bot did its job, consider giving it an upvote!\n" \
-             "Link: https://discordbots.org/bot/520376798131912720" \
 
     embed = discord.Embed()
     embed.add_field(name="CrimmisHatBot Usage!", value=string)
