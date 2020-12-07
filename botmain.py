@@ -2,7 +2,7 @@ import discord
 import requests
 from discord.ext import commands
 from PIL import Image
-from io import BytesIO
+from io imprt BytesIO
 import os
 from utils import get_imgs
 import random
@@ -69,7 +69,6 @@ async def hathelp(ctx):
              "\n" \
              "Please use the command 'q!feedback <message>' to send your feedback!\n" \
              "Note on image quality: higher resolution avatars results in cleaner images\n" \
-             "\n" \
 
     embed = discord.Embed()
     embed.add_field(name="CrimmisHatBot Usage!", value=string)
